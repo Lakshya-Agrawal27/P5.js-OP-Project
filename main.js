@@ -9,7 +9,7 @@ function setup() {
 }
 
 function take_snapshot(){
-   save('student_name.png');
+   save('blue_lightnings_App_Photo.png');
 }
 
 function draw() {
